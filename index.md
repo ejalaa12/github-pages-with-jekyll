@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Learning GitHub Pages
 
-I'm glad you are here. I plan to talk about ...
+I'm learning how to create a GitHub Page with Jekyll !!
